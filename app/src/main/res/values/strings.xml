@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToolbarInternacional</string>
+    <string name="act_add">Adicionar</string>
+    <string name="act_remove">Remover</string>
+    <string name="act_edit">Editar</string>
+    <string name="tlbr_name_contacts">Contatos</string>
+    <string name="toast_add_contact">Adicionar contato</string>
+    <string name="toast_edit_contact">Editar contato</string>
+    <string name="toast_remove_contact">Remover contato</string>
+    <string name="act_help">Ajuda</string>
+    <string name="toast_help">Ajuda toast</string>
+</resources>

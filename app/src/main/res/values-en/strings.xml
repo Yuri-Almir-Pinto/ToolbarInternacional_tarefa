@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToolbarInternational</string>
+    <string name="act_add">Add</string>
+    <string name="act_remove">Remove</string>
+    <string name="act_edit">Edit</string>
+    <string name="tlbr_name_contacts">Contacts</string>
+    <string name="toast_add_contact">Add contact</string>
+    <string name="toast_edit_contact">Edit contact</string>
+    <string name="toast_remove_contact">Remove contact</string>
+    <string name="act_help">Help</string>
+    <string name="toast_help">Help toast</string>
+</resources>
